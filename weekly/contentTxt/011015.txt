@@ -1,0 +1,17 @@
+1. Realized a few things about taking the bus. 1) Yes, you do have to pull the cord to indicate you want to get off. 2) You have to plan your schedule
+around theirs. 3) Do not get on the bus at the station you got off at if you want to go back to where you came from. Can you tell I didn't grow up in a city?</br>
+1.1. Also, I'm not sure if this is common in other cities, but a lot of people will say "Thank you" to the driver as they disembark. I thought
+it was really cool, and started saying it, too. Practicing gratitude is not a bad thing.</br>
+2. Survived the first week of Epicodus! </br>
+2.1. Realized programming (or learning to program) basically means solving logic problem after logic problem, plus math. </br>
+2.2. <a href="../misc/on_comparing_yourself_to_others">Reflected</a> on what having a
+<a href="https://www.learnhowtoprogram.com/lessons/growth-mindset" target="_blank">growth mindset</a> means, especially in regards to comparing one's self to other people.</br>
+2.3. Felt like I could literally feel my brain working through problems, and exhausting itself by the end of the day.</br>
+3. Decided I need to make it a point to do yoga or start dancing again, because of the above point.</br>
+4. Found a free yoga group through meetup.com, and attended a very relaxing class.</br>
+5. Also attended an incredibly fun contemporary class at <a href="http://www.conduit-pdx.org/" target="_blank">Conduit Dance</a>.
+They've got a beautiful space with a great view, and a contact improv class on Tuesdays!</br>
+5.1. Realized how much I've missed dancing. I really don't think there's anything that feels as good as dancing does.</br>
+5.2. Decided I should find a hip hop class. Because <a href="../misc/hip_hop_reasons">reasons</a>.</br>
+6. Tried many different methods of getting a Linux console on my Windows laptop, and finally settled on a Virtual Machine, although there
+are still some kinks to work out.</br>
